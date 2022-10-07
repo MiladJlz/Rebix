@@ -1,0 +1,23 @@
+{
+  "app_name": "ربیکس",
+  "edit_button": "ویرایش",
+  "save_button": "ذخیره",
+  "yes_button": "بله",
+  "cancel_button": "انصراف",
+  "settings_title": "تنظیمات",
+  "warning_dialog_body": "در صورت ترک صفحه اطلاعات ذخیره نخواهند شد. آیا می خواهید ادامه دهید؟",
+  "warning_empty_field": "لطفا این قسمت را پر کنید",
+  "warning_invalid_field": "لطفا مقدار صحیح را وارد کنید",
+  "name_textfield": "نام کالا",
+  "seller_name_textfield": "نام فروشنده",
+  "price_textfield": "قیمت",
+  "select_image": "لطفا یک عکس را انتخاب کنید",
+  "theme_title": "تم",
+  "light_theme_setting": "حالت روشن",
+  "dark_theme_setting": "حالت تاریک",
+  "language_setting": "زبان",
+  "location_setting": "موقعیت",
+  "delete_button": "حذف",
+  "add_product_title": "افزودن کالا",
+  "edit_product_title": "ویرایش کالا"
+}

@@ -1,0 +1,25 @@
+{
+  "app_name": "Rebix",
+  "edit_button": "Edit",
+  "save_button": "Save",
+  "yes_button": "Yes",
+  "cancel_button": "Cancel",
+  "settings_title": "Settings",
+  "warning_dialog_body": "If you leave the page, the information will not be saved. Do you want to continue?",
+  "warning_empty_field": "Please fill this field",
+  "warning_invalid_field": "Please Enter valid value",
+  "name_textfield": "Name",
+  "seller_name_textfield": "Seller Name",
+  "price_textfield": "Price",
+  "select_image": "Please select an image",
+  "theme_title": "Theme",
+  "light_theme_setting": "Light Mode",
+  "dark_theme_setting": "Dark Mode",
+  "language_setting": "Language",
+  "location_setting": "Location",
+  "delete_button": "Delete",
+  "add_product_title": "Add Product",
+  "edit_product_title": "Edit Product"
+
+
+}
